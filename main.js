@@ -183,7 +183,7 @@ require([
         // Function to calculate Nominal Power
         // E = A x r x H x PR
         // E: Energy (kWh)
-        // A: total Area of the panel (m²)
+        // A: total Area of the panel (mÂ²)
         // r is solar panel yield (%)
         // H is annual average solar radiation on tilted panels
         // PR = Performance ratio
@@ -225,7 +225,7 @@ require([
           var tilt = document.getElementById("tiltInput").value;
           
           if (tilt>89){ 
-            alert("Please enter a tile less than 90 degrees");
+            alert("Please enter a tilt less than 90 degrees");
             return;
           }
           
