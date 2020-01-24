@@ -33,7 +33,7 @@ require([
           camera: new Camera({
             position: [-100.4593, 16.9014, 5500000],
             heading: 10.53,
-            tilt: 20
+            tilt: 25
           })
         });
   
