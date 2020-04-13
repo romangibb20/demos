@@ -1,9 +1,9 @@
 Name: Roman Gibbons
-Demo Project: A web based solar calculator application
+Demo Project: A web based solar calculator application V2.0
 
 Installation
 
-To install the application, copy image directory and files (index.html, main.css and main.js) to any directory location on your local machine. Launch the index.html file using a modern browser. 
+To install the application, copy image directory and files (index.html, main.css and main.js) to any directory location on your local machine. Launch the index.html file using a modern browser.
 
 Test Suite
 
@@ -11,7 +11,7 @@ Test Suite
 
 1.	Launch index.html in Chrome browser
 2.	Click the magnifier icon on the expand widget
-3.	Enter “1334th Ave, New Auburn, WI, 54757, USA”
+3.	Enter ï¿½1334th Ave, New Auburn, WI, 54757, USAï¿½
 4.	Expand the solar calculator by clicking on the polygon icon on the expand widget
 5.	Leave default values for orientation, tilt and height
 6.	Click on the Draw Solar Panel button
@@ -50,9 +50,9 @@ Nominal Power:
 3.	Click on the Draw Solar Panel button
 4.	Draw a polygon anywhere on the map
 5.	Double click to end drawing
-6.	An alert should pop up “Please zoom to rooftop levels”
+6.	An alert should pop up ï¿½Please zoom to rooftop levelsï¿½
 7.	Click the magnifier icon on the expand widget
-8.	Enter “1334th Ave, New Auburn, WI, 54757, USA”
+8.	Enter ï¿½1334th Ave, New Auburn, WI, 54757, USAï¿½
 9.	Expand the solar calculator by clicking on the polygon icon on the expand widget
 10.	Click on the Draw Solar Panel button
 11.	Draw a polygon of 4 vertices over the brightest area of the structure shown closest to the center of the map
@@ -60,4 +60,4 @@ Nominal Power:
 13.	Results should be approximately equal to values in 9 above
 14.	Change the tilt value to 95 degrees
 15.	Click on the Calculate button
-16.	An alert should pop up “Please enter a tilt less than 90 degrees”
+16.	An alert should pop up ï¿½Please enter a tilt less than 90 degreesï¿½
